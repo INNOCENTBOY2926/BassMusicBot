@@ -68,4 +68,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://telegram.me/its_innocent_boy_2926"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/INNOCENTBOY2926) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/INNOCENTBOY2926/BassMusicBot)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ INNOCENT](https://github.com/INNOCENTBOY2926) ғᴏʀ [INNOCENT ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/INNOCENTBOY2926/BassMusicBot)_ </b>
